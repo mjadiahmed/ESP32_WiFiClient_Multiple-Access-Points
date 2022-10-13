@@ -1,3 +1,12 @@
+/**
+ * @file main.cpp
+ * @author Ahmed MJADI (mjadiahmed@gmail.com)
+ * @brief Connect your ESP32 to the Accesspoint with the best signal
+ * @version 0.1
+ * @date 2022-10-13
+ * @copyright Copyright (c) 2022
+ */
+
 #include <Arduino.h>
 #include <WiFi.h>
 #include <WiFiMulti.h>
