@@ -31,7 +31,6 @@ void setup()
   }
 
   Serial.println("Connecting Wifi...");
-
   if (wifiMulti.run() == WL_CONNECTED)
   {
     Serial.println("");
